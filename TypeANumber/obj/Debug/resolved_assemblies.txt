@@ -1,0 +1,6 @@
+C:\Projects\Xamarin.PlayServices.BaseGameUtils\TypeANumber\bin\Debug\TypeANumber.dll
+C:\Projects\Xamarin.PlayServices.BaseGameUtils\BaseGameUtils\bin\Debug\BaseGameUtils.dll
+C:\Projects\Xamarin.PlayServices.BaseGameUtils\Components\googleplayservices-19.0.0\lib\android\GooglePlayServicesLib.dll
+C:\Projects\Xamarin.PlayServices.BaseGameUtils\Components\googleplayservices-19.0.0\lib\android\Xamarin.Android.Support.v4.dll
+C:\Projects\Xamarin.PlayServices.BaseGameUtils\Components\googleplayservices-19.0.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Projects\Xamarin.PlayServices.BaseGameUtils\Components\googleplayservices-19.0.0\lib\android\Xamarin.Android.Support.v7.MediaRouter.dll
