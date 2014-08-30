@@ -6,3 +6,6 @@ The example is ported as proof of concept is the application <a href='https://gi
 
 <h2>
 <a name="user-content-license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
+<ul class="task-list">
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Version 2.0</a></li>
+</ul><h2>
